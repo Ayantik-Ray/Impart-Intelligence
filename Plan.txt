@@ -1,0 +1,4 @@
+1) Human Detection Model
+2) Human expression Detection
+3) Eye Gazing
+4) Reply to some pre defined words
